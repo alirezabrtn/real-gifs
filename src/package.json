@@ -1,0 +1,25 @@
+{
+  "name": "real-gifs",
+  "version": "0.0.1",
+  "description": "REAL GIFs on Telegram, A comprehensive bot for managing your GIFs",
+  "homepage": "https://github.com/alireza-brtn/real-gifs#readme",
+  "bugs": {
+    "url": "https://github.com/alireza-brtn/real-gifs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alireza-brtn/real-gifs.git"
+  },
+  "license": "MPL 2.0",
+  "author": "Alireza Baratian",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^16.1.4",
+    "mongoose": "^5.3.0",
+    "node-telegram-bot-api": "^0.61.0"
+  }
+}
