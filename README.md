@@ -1,9 +1,6 @@
 # real-gifs
 REAL GIFs on Telegram, A comprehensive bot for managing your GIFs.
 
-## Note
-This project is still under development and is not ready to be used publicly.
-
 ## Run
 - Install Docker and MongoDB on your host
 - Run the docker image
